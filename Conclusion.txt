@@ -1,0 +1,13 @@
+conclusion
+
+Analysis of total EV sales
+1. We conclude that year on year the sales of ev has increased significantly
+2. Due to increasing sales year on year the production has also increased
+3. Only in the year 2011 the sales to stock ratio was near to 1 rest in all years it has been very low meaning sales has been significantly low as compared to stockin all ths years.
+
+Analysis category wise
+1. Every year sales of BEV and phev has increased
+2. In comparison sales of BEV has increased more than Phev
+3. As 2011 is only year with great stock to sales ratio the major contributing factor of that sales is BEV
+
+This is what i concluded from analysis
